@@ -29,7 +29,7 @@ Hardware 硬件
 6. Light sensor 光敏傳感器
 ```
 
-## Hardware installation
+## Hardware installation 硬件安裝
 
 Download this [Arduino](/Arduino) folder 下載[Arduino](/Arduino)文件
 
@@ -39,6 +39,6 @@ Download this [Arduino](/Arduino) folder 下載[Arduino](/Arduino)文件
 3. Connect your computor to arduino and upload the program 連接你的電腦和Arduino並上傳程式
 ```
 
-## Author
+## Developer 開發者
 
 KL, [me@klhui.hk](mailto:me@klhui.hk)
