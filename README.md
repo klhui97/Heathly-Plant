@@ -2,7 +2,7 @@
 
 ## Introduction 介紹
 
-Healthy Plant is an app that provide information about planting, plant recognition and tracking the status of plants. This app can be connected to Arduino by using Bluettoth. It provides information about the humidity, temperature, light, etc. In order to connect the hardware with the app, users only need to prepare required hardware and follow the tutorial.
+Healthy Plant is an app that provide information about planting, plant recognition and tracking the status of plants. This app can be connected to Arduino by using Bluetooth. It provides information about the humidity, temperature, light, etc. In order to connect the hardware with the app, users only need to prepare required hardware and follow the tutorial.
 
 Healthy Plant 是一個提供種植資訊，植物圖片分析，及查看植物狀態的程式。 程式能透過藍芽與Arduino連接再配合各種感應器來讀取空氣濕度，溫度，光度等等的資訊。用戶只需要自備相關硬件並依照教學設置便能與本程式連接。
 
